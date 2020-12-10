@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Main : MonoBehaviour
+public class Controller : MonoBehaviour
 {
     public GameObject objPrefab;
     GameObject currentObj = null;
